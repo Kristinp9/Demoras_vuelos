@@ -1,5 +1,5 @@
 Proyecto que toma todos los vuelos de Estados Unidos que se realizaron en enero de 2020. 
-Modelos de clasificación utilizando scikit-learn para predecir cuáles estarían demorados
+Modelos de clasificación con scikit-learn para predecir cuales estarían demorados
 
 
 
